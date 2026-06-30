@@ -511,6 +511,4 @@ The numbers speak for themselves:
 
 By 2028–2030, heterogeneous compute will be the default, not the exception. The window for early adoption (2026–2027) is critical.
 
----
 
-**Made with 🚀 by the AI Infrastructure community | June 2026**
